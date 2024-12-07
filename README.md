@@ -1,6 +1,11 @@
 # Commercial Real Estate OM Builder
 
-A React-based web application for creating and managing secure Offering Memorandums (OMs) for commercial real estate properties.
+[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-10.7.0-orange.svg)](https://firebase.google.com/)
+[![Material-UI](https://img.shields.io/badge/MUI-5.14.0-purple.svg)](https://mui.com/)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+
+A professional-grade React application for creating and managing secure Offering Memorandums (OMs) for commercial real estate properties. Part of an integrated suite of commercial real estate tools.
 
 ## Features
 
